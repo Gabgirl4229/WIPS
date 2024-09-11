@@ -38,7 +38,7 @@ int main() {
         displaySet(setNum);
     } else if (option == 3) {
         //checks all 3 axioms
-        puts("Checking if your set is a quandal...");
+        puts("Checking if your set is a quandle...");
         checkQuandle();
     } else if (option == 4) {
         //reset all values to zero
